@@ -1,0 +1,14 @@
+fruit: banana
+favorite:
+  drink: coffee
+  food: pizza
+
+configmap:
+  enabled: false
+
+pizzaToppings:
+  - mushrooms
+  - cheese
+  - peppers
+  - onions
+  - pineapple
